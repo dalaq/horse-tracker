@@ -1,0 +1,25 @@
+{
+  "name": "horse-tracker",
+  "version": "1.0.0",
+  "description": "Track your favourite horses with enhanched stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalaq/horse-tracker.git"
+  },
+  "keywords": [
+    "horse",
+    "tracker",
+    "stats",
+    "form"
+  ],
+  "author": "Steve Grainger",
+  "license": "GNU GPL3",
+  "bugs": {
+    "url": "https://github.com/dalaq/horse-tracker/issues"
+  },
+  "homepage": "https://github.com/dalaq/horse-tracker#readme"
+}
